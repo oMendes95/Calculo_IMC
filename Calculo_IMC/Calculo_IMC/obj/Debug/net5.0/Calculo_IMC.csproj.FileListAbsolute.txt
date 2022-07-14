@@ -1,0 +1,16 @@
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.exe
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.deps.json
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.runtimeconfig.json
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.runtimeconfig.dev.json
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.dll
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\bin\Debug\net5.0\Calculo_IMC.pdb
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.csproj.AssemblyReference.cache
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.AssemblyInfo.cs
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.dll
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\refint\Calculo_IMC.dll
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.pdb
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\Calculo_IMC.genruntimeconfig.cache
+C:\Program Files\Git\Projetos\Calculadora_IMC\Calculo_IMC\Calculo_IMC\obj\Debug\net5.0\ref\Calculo_IMC.dll
